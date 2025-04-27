@@ -75,4 +75,8 @@ Microsoft Power BI Community for learning resources.
 # License
 This project is for educational and portfolio purposes only.
 
-Thank you for visiting!
+# Author
+Neetika Upadhyay
+Data Analyst
+Ottawa, Canada
+[neetusco26@gmail.com]
